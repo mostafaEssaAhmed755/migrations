@@ -1,0 +1,16 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "school",
+      "user": "postgres",
+      "password": "root"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "school_test",
+      "user": "postgres",
+      "password": "root"
+    }
+  }
